@@ -5,15 +5,15 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismayilovmurad&layout=compact)
 
-I'm an experienced Android developer creating awesome and effective apps for companies of all sizes around the globe.
+I specialize in building Android apps. I've been an Android developer for 4 years.
 
-[![All martiandeveloper](https://img.shields.io/badge/All-My_Links-blue?style=for-the-badge)](https://taplink.cc/mdismayilov)
+[![All](https://img.shields.io/badge/All-My_Links-blue?style=for-the-badge)](https://taplink.cc/mdismayilov)
 
 ```kotlin
 object Murad {
 
     val name = "Murad Ismayilov"
-    val profession = "Android Development"
+    val profession = "Android development"
  
     val primarySkillset = "Android"
     val languages = listOf("Kotlin", "Java")
