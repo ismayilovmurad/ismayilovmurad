@@ -7,7 +7,7 @@
 
 I specialize in building Android apps. I've been an Android developer for 4 years.
 
-[![All](https://img.shields.io/badge/All-My_Links-blue?style=for-the-badge)](https://taplink.cc/mdismayilov)
+[![All](https://img.shields.io/badge/All-My_Links-blue?style=for-the-badge)](https://taplink.cc/mrdismy)
 
 ```kotlin
 object Murad {
