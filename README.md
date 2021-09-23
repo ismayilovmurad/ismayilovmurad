@@ -1,4 +1,4 @@
-## Murad Ismayilov - @mdismayilov
+## Murad Ismayilov - @ismayilovmurad
 ### Hi there 👋🏻
 
 ![](https://github-readme-stats.vercel.app/api?username=ismayilovmurad&show_icons=true&count_private=true)
