@@ -17,10 +17,10 @@ I've been learning Swift and iOS development since the beginning of 2022. Since 
 class Murad {
 
     let fullName = "Murad Ismayilov"
-    val profession = "iOS developer"
+    var profession = "iOS developer"
  
-    val primarySkillset = "iOS app development"
-    val languages = listOf("Swift", "Kotlin", "Java")
+    var primarySkillset = "iOS app development"
+    var languages = listOf("Swift", "Kotlin", "Java")
 
 }
 ```
