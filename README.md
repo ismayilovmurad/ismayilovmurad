@@ -9,7 +9,7 @@ Hi there, my name is Murad, and I'm 25 years old mobile app developer who lives 
 
 Technical background:
 I've been coding since 2018.
-I worked as an iOS developer at a local company for over a year and participated in health and parenting-related projects.
+I worked as an iOS developer at a company called A2Z for over a year and participated in health and parenting-related projects.
 I've built over 5 iOS apps and launched them on App Store as an Indie iOS Developer.
 I worked with many clients globally as a Freelance Android Developer.
 I've built over 20 Android apps and launched them on Google Play as an Indie Android Developer.
