@@ -15,11 +15,9 @@ Worked as an iOS developer at a company called A2Z Technologies for over a year 
 
 Worked as an Android Developer at a company called Wit Work for over a year and participated in a VPN app project.
 
-Have built over 5 iOS apps and launched them on App Store as an Indie iOS Developer.
-
 Worked with many clients globally as a Freelance iOS and Android Developer.
 
-Have built over 20 Android apps and launched them on Google Play as an Indie Android Developer.
+Have built many iOS and Android apps and launched them on App Store and Google Play as an Indie Developer.
 
 Have received over 20 "5-star" reviews and earned the "Top Rated" badge on Upwork as a Freelancer.
 
