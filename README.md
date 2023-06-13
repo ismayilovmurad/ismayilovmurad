@@ -8,11 +8,17 @@
 Hi there, my name is Murad, and I'm 25 years old mobile app developer living in Baku, Azerbaijan.
 
 Technical background:
+
 Have been coding since 2018.
+
 Worked as an iOS developer at a company called A2Z for over a year and participated in health and parenting-related projects.
+
 Worked as an Android Developer at a company called Wit Work for over a year and participated in a VPN app project.
+
 Worked with many clients globally as a Freelance iOS and Android Developer (https://www.upwork.com/freelancers/~0175bd3ba910cc6a7c).
+
 Have built many iOS and Android apps and launched them on App Store and Google Play as an Indie Developer. (For example, a Language-learning app: https://apps.apple.com/app/lecarda/id6447599719)
+
 Have received over 20 "5-star" reviews and earned the "Top Rated" badge on Upwork as a Freelancer.
 
 My algorithm skills on CodeSignal (the test was requested by Upwork and it was proctored):
