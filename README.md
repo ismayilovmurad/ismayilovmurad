@@ -36,28 +36,6 @@ Please visit my website (https://muradismayilov.com) to learn more about me, and
 
 My Skills:
 
-Objective-C
-Swift
-OOP and Design Patterns (MVC, MVVM, VIPER)
-UIKit (Imperative Programming)
-SwiftUI (Declarative Programming)
-Figma
-Human Interface Guidelines
-Offline Storage (Core Data, Property List, User Defaults, Key Chain)
-Threading (GCD, Async/Await, Combine, RXSwift)
-REST API
-Socket Integration (Socket.IO)
-Firebase
-AVFoundation, AVPlayer
-Core Animation, Core Graphics, Core Image, Core Bluetooth
-StoreKit, WebKit, SnapKit
-Package Management Tools (SPM, CocoaPods)
-Notifications (Local/Remote)
-Test Automation Frameworks (XCTest/XCUITest, Unit/Integration/UI Testing)
-Git, CI/CD environments (Jenkins, Fastlane)
-Performance and memory tuning tools (ARC, Xcode Instruments)
-App Distribution (Code Signing & Provisioning, TestFlight)
-Agile methodology frameworks (Scrum, Kanban) | Agile PM tools (Jira, Trello)
-Soft Skills, Teamwork, Critical Thinking, Problem-Solving
+Objective-C | Swift | OOP and Design Patterns (MVC, MVVM, VIPER) | UIKit (Imperative Programming) | SwiftUI (Declarative Programming) | Figma | Human Interface Guidelines | Offline Storage (Core Data, Property List, User Defaults, Key Chain) | Threading (GCD, Async/Await, Combine, RXSwift) | REST API | Socket Integration (Socket.IO) | Firebase | AVFoundation, AVPlayer | Core Animation, Core Graphics, Core Image, Core Bluetooth | StoreKit, WebKit, SnapKit | Package Management Tools (SPM, CocoaPods) | Notifications (Local/Remote) | Test Automation Frameworks (XCTest/XCUITest, Unit/Integration/UI Testing) | Git, CI/CD environments (Jenkins, Fastlane) | Performance and memory tuning tools (ARC, Xcode Instruments) | App Distribution (Code Signing & Provisioning, TestFlight) | Agile methodology frameworks (Scrum, Kanban) | Agile PM tools (Jira, Trello) | Soft Skills, Teamwork, Critical Thinking, Problem-Solving
 
 [![All](https://img.shields.io/badge/All-My_Portfolio-blue?style=for-the-badge)](https://muradismayilov.com)
