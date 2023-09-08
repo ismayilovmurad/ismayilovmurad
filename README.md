@@ -3,7 +3,7 @@
 
 Hi, I'm Murad, 25 years old iOS Developer living in Baku, Azerbaijan. I’ve been coding since 2018 by following the software development principles (KISS, YAGNI, DRY, SOLID) and by using the SDLC methodologies (Agile). I love learning new things about iOS Development and improving my skills every day.
 
-I have 2.5 years of working experience in iOS Development.
+I have 3 years of working experience in iOS Development.
 
 My Background:
 
